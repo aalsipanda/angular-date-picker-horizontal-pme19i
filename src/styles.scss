@@ -1,0 +1,23 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+body {
+  font-family: Lato, Arial, sans-serif;
+  margin: 0;
+  flex-direction: column;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.basic-container {
+  padding: 30px;
+}
+.version-info {
+  font-size: 8pt;
+  float: right;
+}
+
+
+/**  Copyright 2019 Google LLC. All Rights Reserved.
+    Use of this source code is governed by an MIT-style license that
+    can be found in the LICENSE file at http://angular.io/license */
